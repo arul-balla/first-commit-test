@@ -13,7 +13,7 @@
 import org.junit.*;
 import static org.junit.Assert.*;
 import java.util.*;
-import NumberPro.*;
+import NumberPro.NumberProcessor.*;
   
 public class P1Tester {
   public static void main(String args[]){
