@@ -10,10 +10,11 @@
  *  demo$ javac -cp .;junit-cs211.jar *.java   # compile everything
  *  demo$ java -cp .;junit-cs211.jar P1Tester  # run tests
  */
+package NumberPro;
+
 import org.junit.*;
 import static org.junit.Assert.*;
 import java.util.*;
-import NumberPro.NumberProcessor.*;
   
 public class P1Tester {
   public static void main(String args[]){
